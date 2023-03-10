@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="vidas">
+    <file>Imagenes/vidas.png</file>
+  </qresource>
+  <qresource prefix="fases">
+    <file>Imagenes/fase1.png</file>
+    <file>Imagenes/fase2.png</file>
+    <file>Imagenes/fase3.png</file>
+    <file>Imagenes/fase4.png</file>
+    <file>Imagenes/fase5.png</file>
+    <file>Imagenes/fase6.png</file>
+  </qresource>
+</RCC>
